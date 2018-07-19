@@ -8,3 +8,5 @@ master: version2
 hotfix:version1
 
 hotfix2:version1
+
+hotfix2:version2

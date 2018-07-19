@@ -10,3 +10,6 @@ hotfix:version1
 hotfix2:version1
 
 hotfix2:version2
+
+master:version3
+
